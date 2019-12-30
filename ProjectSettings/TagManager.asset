@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Tower
+  - Monster
+  - Bullet
+  - Path
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Monster
+  - Tower
+  - Bullet
+  - 
+  - 
+  - 
+  - GameOverPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1766569645
+    locked: 0
+  - name: Tile
+    uniqueID: 4122168557
+    locked: 0
+  - name: Monster
+    uniqueID: 4294553983
+    locked: 0
+  - name: Tower
+    uniqueID: 1676783627
+    locked: 0
+  - name: Bullet
+    uniqueID: 4057171111
+    locked: 0
+  - name: UI
+    uniqueID: 656354371
+    locked: 0
